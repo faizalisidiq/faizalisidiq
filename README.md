@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi👋 I'm Faiz Ali Sidiq
 💻 IT Student at Electronic Engineering Polytechnic Institute of Surabaya <br>🌱 I’m currently learning Web Development<br>💬 Reach me at faizalisidiqq@gmail.com
 
 
